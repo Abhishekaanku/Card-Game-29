@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1510746726 source:c:\users\abhishek\documents\cpp\29_game_project\auto.cpp
+	"Auto.h"
+	"Card.h"
+	<stdlib.h>
+
+1510688884 c:\users\abhishek\documents\cpp\29_game_project\auto.h
+	"Player.h"
+
+1510748498 c:\users\abhishek\documents\cpp\29_game_project\player.h
+	"hand.h"
+	"Card.h"
+
+1510733012 c:\users\abhishek\documents\cpp\29_game_project\hand.h
+	"Card.h"
+
+1510746212 c:\users\abhishek\documents\cpp\29_game_project\card.h
+	<vector>
+	<iostream>
+
+1510770652 source:c:\users\abhishek\documents\cpp\29_game_project\bk_game.cpp
+	<iostream>
+	"Game_29.h"
+	<vector>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1510749028 c:\users\abhishek\documents\cpp\29_game_project\game_29.h
+	"Player.h"
+	"Auto.h"
+
+1510748042 source:c:\users\abhishek\documents\cpp\29_game_project\card.cpp
+	"Card.h"
+	<algorithm>
+
+1510747554 source:c:\users\abhishek\documents\cpp\29_game_project\deck.cpp
+	"Deck.h"
+	"Card.h"
+	"Player.h"
+	"Auto.h"
+
+1510726654 c:\users\abhishek\documents\cpp\29_game_project\deck.h
+	"hand.h"
+	"Auto.h"
+
