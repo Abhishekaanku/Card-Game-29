@@ -11,7 +11,7 @@ Game_29::Game_29() {
 	deck.fill();
 	deck.shuffle();
 	int cut;
-	cout<<"Enter the no. for the card to cut: ";
+	cout<<"Enter the no. for the card to cut(1-18): ";
 	cin>>cut;
 	deck.cut(cut);
 	deck.deal(P,A,5);
